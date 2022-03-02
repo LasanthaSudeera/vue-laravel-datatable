@@ -1,0 +1,240 @@
+{
+	"current_page": 1,
+	"data": [				
+		{
+			"id": 1,
+			"date": "2022-03-01T07:07:10.000000Z",
+			"name": "Name",
+			"course": "National Factors Engineer",
+			"createdUser": "admin",			
+			"branch": "KAN"
+		},
+		{
+			"id": 4,
+			"date": "2022-03-01T13:54:14.000000Z",
+			"name": "America",
+			"course": "English course",
+			"createdUser": "admin",			
+			"branch": "NE"
+		},
+		{
+			"id": 3,
+			"date": "2022-03-01T13:53:43.000000Z",
+			"name": "John Doe",
+			"course": "English course",
+			"createdUser": "admin",		
+			"branch": "KAN"
+		},
+		{
+			"id": 1,
+			"date": "2022-03-01T07:07:10.000000Z",
+			"name": "Name",
+			"course": "National Factors Engineer",
+			"createdUser": "admin",			
+			"branch": "KAN"
+		},
+		{
+			"id": 4,
+			"date": "2022-03-01T13:54:14.000000Z",
+			"name": "America",
+			"course": "English course",
+			"createdUser": "admin",			
+			"branch": "NE"
+		},
+		{
+			"id": 3,
+			"date": "2022-03-01T13:53:43.000000Z",
+			"name": "John Doe",
+			"course": "English course",
+			"createdUser": "admin",		
+			"branch": "KAN"
+		},			
+		{
+			"id": 4,
+			"date": "2022-03-01T13:54:14.000000Z",
+			"name": "America",
+			"course": "English course",
+			"createdUser": "admin",			
+			"branch": "NE"
+		},
+		{
+			"id": 3,
+			"date": "2022-03-01T13:53:43.000000Z",
+			"name": "John Doe",
+			"course": "English course",
+			"createdUser": "admin",		
+			"branch": "KAN"
+		},
+		{
+			"id": 1,
+			"date": "2022-03-01T07:07:10.000000Z",
+			"name": "Name",
+			"course": "National Factors Engineer",
+			"createdUser": "admin",			
+			"branch": "KAN"
+		},
+		{
+			"id": 4,
+			"date": "2022-03-01T13:54:14.000000Z",
+			"name": "America",
+			"course": "English course",
+			"createdUser": "admin",			
+			"branch": "NE"
+		},
+		{
+			"id": 3,
+			"date": "2022-03-01T13:53:43.000000Z",
+			"name": "John Doe",
+			"course": "English course",
+			"createdUser": "admin",		
+			"branch": "KAN"
+		},
+		{
+			"id": 1,
+			"date": "2022-03-01T07:07:10.000000Z",
+			"name": "Name",
+			"course": "National Factors Engineer",
+			"createdUser": "admin",			
+			"branch": "KAN"
+		},
+		{
+			"id": 4,
+			"date": "2022-03-01T13:54:14.000000Z",
+			"name": "America",
+			"course": "English course",
+			"createdUser": "admin",			
+			"branch": "NE"
+		},
+		{
+			"id": 3,
+			"date": "2022-03-01T13:53:43.000000Z",
+			"name": "John Doe",
+			"course": "English course",
+			"createdUser": "admin",		
+			"branch": "KAN"
+		},
+		{
+			"id": 1,
+			"date": "2022-03-01T07:07:10.000000Z",
+			"name": "Name",
+			"course": "National Factors Engineer",
+			"createdUser": "admin",			
+			"branch": "KAN"
+		},
+		{
+			"id": 4,
+			"date": "2022-03-01T13:54:14.000000Z",
+			"name": "America",
+			"course": "English course",
+			"createdUser": "admin",			
+			"branch": "NE"
+		},
+		{
+			"id": 3,
+			"date": "2022-03-01T13:53:43.000000Z",
+			"name": "John Doe",
+			"course": "English course",
+			"createdUser": "admin",		
+			"branch": "KAN"
+		},
+		{
+			"id": 1,
+			"date": "2022-03-01T07:07:10.000000Z",
+			"name": "Name",
+			"course": "National Factors Engineer",
+			"createdUser": "admin",			
+			"branch": "KAN"
+		},
+		{
+			"id": 4,
+			"date": "2022-03-01T13:54:14.000000Z",
+			"name": "America",
+			"course": "English course",
+			"createdUser": "admin",			
+			"branch": "NE"
+		},
+		{
+			"id": 3,
+			"date": "2022-03-01T13:53:43.000000Z",
+			"name": "John Doe",
+			"course": "English course",
+			"createdUser": "admin",		
+			"branch": "KAN"
+		},
+		{
+			"id": 1,
+			"date": "2022-03-01T07:07:10.000000Z",
+			"name": "Name",
+			"course": "National Factors Engineer",
+			"createdUser": "admin",			
+			"branch": "KAN"
+		},
+		{
+			"id": 4,
+			"date": "2022-03-01T13:54:14.000000Z",
+			"name": "America",
+			"course": "English course",
+			"createdUser": "admin",			
+			"branch": "NE"
+		},
+		{
+			"id": 3,
+			"date": "2022-03-01T13:53:43.000000Z",
+			"name": "John Doe",
+			"course": "English course",
+			"createdUser": "admin",		
+			"branch": "KAN"
+		},
+		{
+			"id": 1,
+			"date": "2022-03-01T07:07:10.000000Z",
+			"name": "Name",
+			"course": "National Factors Engineer",
+			"createdUser": "admin",			
+			"branch": "KAN"
+		},
+		{
+			"id": 4,
+			"date": "2022-03-01T13:54:14.000000Z",
+			"name": "America",
+			"course": "English course",
+			"createdUser": "admin",			
+			"branch": "NE"
+		},
+		{
+			"id": 3,
+			"date": "2022-03-01T13:53:43.000000Z",
+			"name": "John Doe",
+			"course": "English course",
+			"createdUser": "admin",		
+			"branch": "KAN"
+		},
+		{
+			"id": 1,
+			"date": "2022-03-01T07:07:10.000000Z",
+			"name": "Name",
+			"course": "National Factors Engineer",
+			"createdUser": "admin",			
+			"branch": "KAN"
+		}
+	],
+	"first_page_url": "http://localhost/api/inquiry?page=1",
+	"from": 1,
+	"last_page": 1,
+	"last_page_url": "http://localhost/api/inquiry?page=1",
+	"links": [
+		{ "url": null, "label": "&laquo; Previous", "active": false },
+		{
+			"url": "http://localhost/api/inquiry?page=1",
+			"label": "1",
+			"active": true
+		},
+		{ "url": null, "label": "Next &raquo;", "active": false }
+	],
+	"next_page_url": null,
+	"path": "http://localhost/api/inquiry",
+	"per_page": "50",
+	"prev_page_url": null,
+	"to": 3,
+	"total": 3
+}
