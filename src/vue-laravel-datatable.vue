@@ -1,6 +1,6 @@
 <template>
 	<div>
-		<div class="row mb-3">
+		<div class="row mb-3 d-flex justify-content-between">
 			<div class="col-4">
 				<label for="">Search</label>
 				<input

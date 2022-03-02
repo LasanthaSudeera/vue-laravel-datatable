@@ -1,7 +1,7 @@
 <script>
 import Vue from "vue";
 import VueLaravelDatatable from "@/vue-laravel-datatable.vue";
-import * as dataSource from "./sampleObject.json"
+import * as dataSource from "./sampleObject.json";
 
 export default Vue.extend({
 	name: "ServeDev",
@@ -26,21 +26,27 @@ export default Vue.extend({
 			],
 		};
 	},
-  
 });
 </script>
 
 <template>
 	<div id="app">
-		<vue-laravel-datatable :columns="columns" :dataSource="dataSource.default">
-			<template v-slot:tbody="{ item: { item } }">
-				<td>{{ item.id }}</td>
-				<td>{{ item.date }}</td>
-				<td>{{ item.branch }}</td>
-				<td>{{ item.name }}</td>
-				<td>{{ item.course }}</td>
-				<td>{{ item.createdUser }}</td>
-			</template>
-		</vue-laravel-datatable>
+		<div class="row p-5">
+			<div class="col-12">
+				<vue-laravel-datatable
+					:columns="columns"
+					:dataSource="dataSource.default"
+				>
+					<template v-slot:tbody="{ item: { item } }">
+						<td>{{ item.id }}</td>
+						<td>{{ item.date }}</td>
+						<td>{{ item.branch }}</td>
+						<td>{{ item.name }}</td>
+						<td>{{ item.course }}</td>
+						<td>{{ item.createdUser }}</td>
+					</template>
+				</vue-laravel-datatable>
+			</div>
+		</div>
 	</div>
 </template>
